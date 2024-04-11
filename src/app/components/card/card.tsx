@@ -37,6 +37,7 @@ export default function Card() {
                             <div className="text-sm mt-2">
                                 <a href="#" className=" text-center font-light text-[#0866FF] hover:text-blue-600 hover:underline tracking-wide">Forgotten password?</a>
                             </div>
+                            <div className="px-3/4 bg-gray-300 h-px"></div>
                             <div>
                                 <button type="submit" className=" mb-5 justify-center rounded-md 
                          bg-[#42B72A] hover:bg-[#36A420] px-8 py-3 text-base font-semibold text-white">Create new account</button>
